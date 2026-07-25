@@ -10,8 +10,6 @@ I also have practical experience in Web Scraping and Machine Learning.
 Currently, I am actively enhancing my skills in AI/ML to develop intelligent solutions.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjz589&label=Profile%20views&color=7F00FF&style=flat" alt="mjz589" /> </p> -->
-</br>
-
 
 - 🔭 I’m currently working on **-**
 - 🤝 I’m looking to collaborate on **Web Development** and **AI/ML**
@@ -20,8 +18,7 @@ Currently, I am actively enhancing my skills in AI/ML to develop intelligent sol
 - 📫 How to reach me **mjz589.2018@gmail.com**
 - 👨‍💻 All of my projects are available at **<a href="https://github.com/mjavadzare">Github<a>** <!-- and **<a href="https://mmd-javad.ir/">My Site<a>** --><!-- - 📝 I regularly write articles on **<a href="http://mmd-javad.ir">mmd-javad.ir<a>** -->
 - 📄 Know about my experiences in **<a href="https://mjavadzare.github.io/mohammad-javad-zare.pdf">my CV<a>**
-- ⚡ If my name is too hard to spell for you, **just call me Mikey. :)**
-</div>
+
 <h3 align="left">Connect with me:</h3>
 <div> <a href="https://www.linkedin.com/in/mohammad-javad-zare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/mjavadzare" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
