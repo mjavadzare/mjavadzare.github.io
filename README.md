@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Javad Zare
 
-### MSc in Computer Science — Soft Computing and Artificial Intelligence @ University of Tehran
+### MSc in Computer Science - Soft Computing and Artificial Intelligence @ University of Tehran
 
 [![Portfolio Website](https://img.shields.io/badge/🌐_Live_Portfolio-mjavadzare.github.io-4f46e5?style=for-the-badge)](https://mjavadzare.github.io/)
 [![Download CV](https://img.shields.io/badge/📄_Curriculum_Vitae-Download_PDF-0284c7?style=for-the-badge)](https://mjavadzare.github.io/Main_CV.pdf)
@@ -11,9 +11,9 @@
 
 ## 🧠 About Me
 
-I am a Master's student in **Computer Science — Soft Computing and Artificial Intelligence** at the **University of Tehran** and a Computer Science graduate from the **University of Bojnord**. My academic research and engineering work focus on developing deep learning pipelines for **Computer Vision** and **Medical Imaging**, exploring **Vision-Language Models (VLMs)** and **Agentic AI**, and architecting scalable backend systems using Python and Django.
+I am a Master's student in **Computer Science - Soft Computing and Artificial Intelligence** at the **University of Tehran** and a Computer Science graduate from the **University of Bojnord**. My academic research and engineering work focus on developing deep learning pipelines for **Computer Vision** and **Medical Imaging**, exploring **Vision-Language Models (VLMs)** and **Agentic AI**, and architecting scalable backend systems using Python and Django.
 
-- 🎓 **Current Education:** MSc in Computer Science — Soft Computing and Artificial Intelligence, University of Tehran _(Oct 2026 – Present)_
+- 🎓 **Current Education:** MSc in Computer Science - Soft Computing and Artificial Intelligence, University of Tehran _(Oct 2026 – Present)_
 - 🎓 **Previous Education:** BSc in Computer Science, University of Bojnord _(Oct 2021 – Sep 2025 | GPA: 15.41/20)_
 - 🔬 **Research Focus:** Computer Vision, Medical Imaging, Vision-Language Models (VLMs), and Agentic AI
 - 🌐 **Portfolio & Interactive CV:** [**https://mjavadzare.github.io/**](https://mjavadzare.github.io/)
