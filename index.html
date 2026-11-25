@@ -326,7 +326,7 @@
 						href="#certifications"
 						class="lg:whitespace-nowrap shrink-0 px-3 py-2 rounded-xl text-slate-600 dark:text-slate-300 hover:text-[#285A48] dark:hover:text-[#B0E4CC] hover:bg-[#B0E4CC]/25 dark:hover:bg-[#285A48]/30 transition-colors"
 						data-i18n="nav_certs"
-						>Activities & Certs</a
+						>Volunteering &amp; Certs</a
 					>
 					<a
 						href="#contact"
@@ -435,7 +435,7 @@
 					onclick="toggleMobileMenu()"
 					class="block px-3.5 py-2.5 rounded-xl text-sm font-medium text-slate-700 dark:text-slate-200 hover:bg-[#B0E4CC]/25 dark:hover:bg-[#285A48]/30"
 					data-i18n="nav_certs"
-					>Activities & Certs</a
+					>Volunteering &amp; Certs</a
 				>
 				<a
 					href="#contact"
@@ -1275,9 +1275,9 @@
 										>Built a modular PyTorch platform for
 										5-class Diabetic Retinopathy grading
 										across 9 ablations; best ResNet50 (Focal
-										Loss) reached 84.17% test accuracy,
-										0.898 QWK, and 93.6% referable DR
-										sensitivity.</span
+										Loss) reached 0.898 QWK, 95.6%
+										non-referable precision, and 93.6%
+										referable DR recall.</span
 									>
 								</li>
 								<li class="flex items-start gap-2">
@@ -1285,10 +1285,12 @@
 										class="fa-solid fa-check text-[#408A71] dark:text-[#B0E4CC] text-xs mt-1 shrink-0"
 									></i>
 									<span data-i18n="proj1_b2"
-										>Applied post-hoc Temperature Scaling (T
-										= 0.9196), reducing held-out test ECE by
-										8.88% for confidence- and entropy-based
-										clinical triage.</span
+										>Calibrated the model's confidence
+										scores (Temperature Scaling), reducing
+										probability error by 8.88% on unseen
+										scans so uncertain or high-risk cases
+										are automatically flagged for specialist
+										review.</span
 									>
 								</li>
 								<li class="flex items-start gap-2">
@@ -1827,9 +1829,9 @@
 				</div>
 			</section>
 
-			<!-- ================= ACADEMIC ACTIVITIES & CERTIFICATIONS ================= -->
+			<!-- ================= VOLUNTEERING & CERTIFICATIONS ================= -->
 			<section id="certifications" class="scroll-mt-24 space-y-12 w-full">
-				<!-- Part A: Academic Leadership & Activities -->
+				<!-- Part A: Volunteering & Community -->
 				<div class="space-y-6">
 					<div
 						class="flex flex-col sm:flex-row sm:items-end justify-between gap-4 border-b border-[#285A48]/15 dark:border-[#285A48]/40 pb-4"
@@ -1838,13 +1840,13 @@
 							<span
 								class="text-xs font-mono uppercase tracking-wider text-[#408A71] dark:text-[#B0E4CC] font-semibold"
 								data-i18n="sec_act_tag"
-								>// 05. Leadership & Community</span
+								>// 05. Volunteering &amp; Community</span
 							>
 							<h2
 								class="text-2xl sm:text-3xl font-bold text-[#091413] dark:text-white mt-1"
 								data-i18n="sec_act_title"
 							>
-								Academic Activities
+								Volunteering
 							</h2>
 						</div>
 					</div>
@@ -1868,7 +1870,7 @@
 										class="text-lg sm:text-xl font-bold text-[#091413] dark:text-white break-words"
 										data-i18n="act_role"
 									>
-										Central Council Member (Executive Board)
+										Executive Board Member
 									</h3>
 									<p
 										class="text-[#408A71] dark:text-[#B0E4CC] font-medium text-xs sm:text-base mt-0.5"
@@ -1922,9 +1924,11 @@
 								></i>
 								<span data-i18n="act_b3"
 									>Developed and deployed registration
-									websites for
-									<strong>three consecutive editions</strong>
-									of the UBPC programming contest.</span
+									websites for the
+									<strong>1st and 2nd UBPC</strong> contests,
+									and volunteered to deploy the site for the
+									<strong>3rd edition</strong> after my term
+									ended.</span
 								>
 							</div>
 							<div
@@ -2462,7 +2466,7 @@
 					nav_education: "Education",
 					nav_projects: "Projects",
 					nav_skills: "Skills",
-					nav_certs: "Activities & Certs",
+					nav_certs: "Volunteering & Certs",
 					nav_contact: "Contact",
 					nav_cv_btn: "Resume (PDF)",
 					hero_badge:
@@ -2534,9 +2538,9 @@
 					proj1_sub:
 						"5-Class Diabetic Retinopathy Grading, Calibration & XAI",
 					proj1_b1:
-						"Built a modular PyTorch platform for 5-class Diabetic Retinopathy grading across 9 ablations; best ResNet50 (Focal Loss) reached 84.17% test accuracy, 0.898 QWK, and 93.6% referable DR sensitivity.",
+						"Built a modular PyTorch platform for 5-class Diabetic Retinopathy grading across 9 ablations; best ResNet50 (Focal Loss) reached 0.898 QWK, 95.6% non-referable precision, and 93.6% referable DR recall.",
 					proj1_b2:
-						"Applied post-hoc Temperature Scaling (T = 0.9196), reducing held-out test ECE by 8.88% for confidence- and entropy-based clinical triage.",
+						"Calibrated the model's confidence scores (Temperature Scaling), reducing probability error by 8.88% on unseen scans so uncertain or high-risk cases are automatically flagged for specialist review.",
 					proj1_b3:
 						"Implemented reusable Grad-CAM / Grad-CAM++ counterfactual explainability, clinical error auditing, and Dockerized deployment with automated tests.",
 					proj2_badge: "ML Pipeline",
@@ -2567,15 +2571,15 @@
 					skill_cat_ai: "Machine Learning & AI",
 					skill_cat_backend: "Backend & Database",
 					skill_cat_tools: "Tools & Environment",
-					sec_act_tag: "// 05. Leadership & Community",
-					sec_act_title: "Academic Activities",
-					act_role: "Central Council Member (Executive Board)",
+					sec_act_tag: "// 05. Volunteering & Community",
+					sec_act_title: "Volunteering",
+					act_role: "Executive Board Member",
 					act_org:
 						"Computer Science Scientific Association, University of Bojnord",
 					act_date: "Sep 2023 – Sep 2025",
 					act_b1: "Co-initiated and co-organized the <strong>1st UBPC</strong> Algorithmic Programming Contest.",
 					act_b2: "Co-organized the <strong>2nd UBPC</strong> Algorithmic Programming Contest.",
-					act_b3: "Developed and deployed registration websites for <strong>three consecutive editions</strong> of the UBPC programming contest.",
+					act_b3: "Developed and deployed registration websites for the <strong>1st and 2nd UBPC</strong> contests, and volunteered to deploy the site for the <strong>3rd edition</strong> after my term ended.",
 					act_b4: "Contributed to planning and coordinating events with faculty advisors and executive board members.",
 					sec_cert_tag: "// 06. Continuous Learning",
 					sec_cert_title: "Certifications & Courses",
@@ -2617,7 +2621,7 @@
 					nav_education: "تحصیلات",
 					nav_projects: "پروژه‌ها",
 					nav_skills: "مهارت‌ها",
-					nav_certs: "فعالیت‌ها و گواهینامه‌ها",
+					nav_certs: "داوطلبانه و گواهینامه‌ها",
 					nav_contact: "تماس",
 					nav_cv_btn: "رزومه (PDF)",
 					hero_badge:
@@ -2689,9 +2693,9 @@
 					proj1_sub:
 						"درجه‌بندی ۵کلاسه رتینوپاتی دیابتی، کالیبراسیون و XAI",
 					proj1_b1:
-						"توسعه پلتفرم ماژولار PyTorch برای درجه‌بندی ۵کلاسه رتینوپاتی دیابتی در ۹ آزمایش کنترل‌شده؛ بهترین مدل ResNet50 (Focal Loss) به دقت تست ۸۴.۱۷٪، امتیاز QWK برابر ۰.۸۹۸ و حساسیت ۹۳.۶٪ در موارد ارجاعی رسید.",
+						"توسعه پلتفرم ماژولار PyTorch برای درجه‌بندی ۵کلاسه رتینوپاتی دیابتی در ۹ آزمایش کنترل‌شده؛ بهترین مدل ResNet50 (Focal Loss) به امتیاز QWK برابر ۰.۸۹۸، دقت (Precision) ۹۵.۶٪ در موارد غیرارجاعی و Recall برابر ۹۳.۶٪ در موارد ارجاعی رسید.",
 					proj1_b2:
-						"اعمال کالیبراسیون Temperature Scaling (T = 0.9196) با کاهش ۸.۸۸٪ خطای ECE روی داده تست برای تریاژ بالینی مبتنی بر اطمینان و آنتروپی.",
+						"تنظیم دقیق (کالیبراسیون) درصد اطمینان پیش‌بینی‌های مدل و کاهش ۸.۸۸٪ خطای برآورد احتمال روی تصاویر تست دیده‌نشده، تا موارد مشکوک یا با اطمینان پایین به‌صورت خودکار برای بررسی پزشک متخصص ارجاع داده شوند.",
 					proj1_b3:
 						"پیاده‌سازی موتورهای قابل استفاده مجدد Grad-CAM / Grad-CAM++ برای تحلیل خطاهای بالینی و استقرار کانتینری با Docker همراه با تست خودکار.",
 					proj2_badge: "پایپ‌لاین یادگیری ماشین",
@@ -2722,15 +2726,15 @@
 					skill_cat_ai: "یادگیری ماشین و هوش مصنوعی",
 					skill_cat_backend: "بک‌اند و پایگاه داده",
 					skill_cat_tools: "ابزارها و سیستم‌عامل",
-					sec_act_tag: "// ۰۵. فعالیت‌های آکادمیک و اجرایی",
-					sec_act_title: "فعالیت‌های علمی و دانشجویی",
+					sec_act_tag: "// ۰۵. فعالیت‌های داوطلبانه و اجرایی",
+					sec_act_title: "فعالیت‌های داوطلبانه",
 					act_role: "عضو شورای مرکزی (هیئت اجرایی)",
 					act_org:
 						"انجمن علمی دانشجویی علوم کامپیوتر، دانشگاه بجنورد",
 					act_date: "شهریور ۱۴۰۲ – شهریور ۱۴۰۴",
 					act_b1: "بنیان‌گذاری و برگزاری <strong>اولین دوره مسابقات الگوریتمی UBPC</strong>.",
 					act_b2: "برگزاری و هماهنگی اجرایی <strong>دومین دوره مسابقات برنامه‌نویسی الگوریتمی UBPC</strong>.",
-					act_b3: "طراحی، توسعه و استقرار وب‌سایت ثبت‌نام برای <strong>سه دوره متوالی</strong> مسابقات برنامه‌نویسی UBPC.",
+					act_b3: "طراحی، توسعه و استقرار وب‌سایت ثبت‌نام برای <strong>دوره‌های اول و دوم</strong> مسابقات UBPC و استقرار داوطلبانه وب‌سایت <strong>دوره سوم</strong> پس از پایان دوره عضویت.",
 					act_b4: "مشارکت در برنامه‌ریزی و هماهنگی رویدادهای علمی با اساتید مشاور و اعضای هیئت اجرایی.",
 					sec_cert_tag: "// ۰۶. آموزش مستمر",
 					sec_cert_title: "گواهینامه‌ها و دوره‌های تخصصی",
